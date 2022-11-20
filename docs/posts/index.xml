@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Project Documentation</title>
+    <link>https://annkugler.github.io/interactionvr/posts/</link>
+    <description>Recent content in Posts on Project Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://annkugler.github.io/interactionvr/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hyper Reality</title>
+      <link>https://annkugler.github.io/interactionvr/posts/hyperreality/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://annkugler.github.io/interactionvr/posts/hyperreality/</guid>
+      <description>Hyper reality Is it only a vision in the distant future or already finding its way into our everyday life? If we look back in the early 20th century, people back then never imagined that the technologies, we are using these days will become part of the human life. While there have been visions about Virtual Reality and technology of people causally interacting with computers, it was still a concept of the distant future.</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Display</title>
+      <link>https://annkugler.github.io/interactionvr/posts/ultimate-display/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://annkugler.github.io/interactionvr/posts/ultimate-display/</guid>
+      <description>Ivan E. Sutherland: The Ultimate Display Over 50 years ago, back in 1965 Ivan E. Sutherland expressed his vision of the Ultimate Display as follows:
+ The ultimate display would, of course, be a room within which the computer can control the existence of matter. A chair displayed in such a room would be good enough to sit in. Handcuffs displayed in such a room would be confining, and a bullet displayed in such a room would be fatal.</description>
+    </item>
+    
+    <item>
+      <title>Setting up project</title>
+      <link>https://annkugler.github.io/interactionvr/posts/device-setup/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://annkugler.github.io/interactionvr/posts/device-setup/</guid>
+      <description>Connecting the Meta Quest Problem: If connecting the Meta Quest with a Linux machine, the device is not listed on the connected devices.
+Solution: Adjusting the android rules to grant permission for the meta quest.
+Device USB information:
+Bus 001 Device 017: ID 2833:0182  Adding the following line to the android rules file:
+SUBSYSTEM==&amp;quot;usb&amp;quot;, ATTR{idVendor}==&amp;quot;2833&amp;quot;, ATTR{idProduct}==&amp;quot;0182&amp;quot;, MODE=&amp;quot;0666&amp;quot;, GROUP=&amp;quot;plugdev&amp;quot;  Now the Meta Quest Device shows up when connecting via and USB-C/ USB cable.</description>
+    </item>
+    
+  </channel>
+</rss>

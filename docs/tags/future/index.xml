@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future on Project Documentation</title>
+    <link>https://annkugler.github.io/interactionvr/tags/future/</link>
+    <description>Recent content in Future on Project Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://annkugler.github.io/interactionvr/tags/future/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hyper Reality</title>
+      <link>https://annkugler.github.io/interactionvr/posts/hyperreality/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://annkugler.github.io/interactionvr/posts/hyperreality/</guid>
+      <description>Hyper reality Is it only a vision in the distant future or already finding its way into our everyday life? If we look back in the early 20th century, people back then never imagined that the technologies, we are using these days will become part of the human life. While there have been visions about Virtual Reality and technology of people causally interacting with computers, it was still a concept of the distant future.</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Display</title>
+      <link>https://annkugler.github.io/interactionvr/posts/ultimate-display/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://annkugler.github.io/interactionvr/posts/ultimate-display/</guid>
+      <description>Ivan E. Sutherland: The Ultimate Display Over 50 years ago, back in 1965 Ivan E. Sutherland expressed his vision of the Ultimate Display as follows:
+ The ultimate display would, of course, be a room within which the computer can control the existence of matter. A chair displayed in such a room would be good enough to sit in. Handcuffs displayed in such a room would be confining, and a bullet displayed in such a room would be fatal.</description>
+    </item>
+    
+  </channel>
+</rss>
