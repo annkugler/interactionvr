@@ -1,6 +1,6 @@
 baseURL = "https://annkugler.github.io/interactionvr"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Project Documentation"
 theme = "hugo-theme-serial-programmer"
-publishDir = "docs"
 
