@@ -3,4 +3,3 @@ languageCode = "en-us"
 title = "Project Documentation"
 theme = "hugo-theme-serial-programmer"
 publishDir = "docs"
-
