@@ -1,4 +1,4 @@
-baseURL = "https://annkugler.github.io/interactionvr/"
+baseURL = "https://annkugler.github.io/interactionvr"
 languageCode = "en-us"
 title = "Project Documentation"
 theme = "hugo-theme-serial-programmer"
